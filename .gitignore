@@ -18,5 +18,3 @@ hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 
-# used as submodule
-themes/hello-friend-ng
