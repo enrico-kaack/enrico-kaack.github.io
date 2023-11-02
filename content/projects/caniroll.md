@@ -15,7 +15,8 @@ series = ["Projects"]
   name = "Enrico Kaack"
 +++
 
-CanIRoll is an Android and iOS application to calculate the success rate of reaching a certain dice sum. It is supposed to support decision-making in dice-based games.
+CanIRoll is an Android and iOS application to calculate the success rate of reaching a certain dice sum. It is supposed to support decision-making in dice-based games. 
+[[GitHub Repository](https://github.com/enrico-kaack/CanIRoll)]
 
 ![screenrecording caniroll](/projects/caniroll/caniroll-screen-recording.gif)
 
