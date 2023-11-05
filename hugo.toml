@@ -55,7 +55,7 @@ logoHomeLink = "/"
 # Set to a valid CSS time value to change the animation duration, "0s" to disable.
 # logoCursorAnimate  = "2s"
 # Append the current url pathname to logoText 
-# logoCursorPathname = true
+logoCursorPathname = true
 
 # Uncomment this if you want a portrait on your start page
 #
