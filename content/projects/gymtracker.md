@@ -28,6 +28,7 @@ I aligned my development of the app around building a streamlined app, and doing
 - Create templates to simplify adding exercises to a current workout
 - Show the weight and repetition history of every exercise
 - Graph the progress to see improvements in strength over time
+- Live Activities Widget during workout (see [Post: Add Live Activities Widget to iOS App](/posts/live-activities-ios))
 
 ## Roadmap
 
