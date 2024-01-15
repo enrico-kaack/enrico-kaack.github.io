@@ -69,6 +69,9 @@ logoCursorPathname = true
 name = "github"
 url = "https://github.com/enrico-kaack"
 [[params.social]]
+name = "github"
+url = "https://github.com/enrico-kaack-comp"
+[[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/enrico-kaack"
 
