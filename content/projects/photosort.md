@@ -29,12 +29,12 @@ As a first solution, I turned to ChatGPT, which helped me create a Python script
 - **Privacy First**: All image processing should happen locally, ensuring that no pictures are ever uploaded to a server.
 - **Ease of Use**: The user interface should be simple and intuitive, allowing users to sort through images quickly without a steep learning curve.
 - **Speed and Performance**: Sorting and copying images should be fast and responsive, even for large batches of photos.
-- **Compatibility**: The app should work in modern browsers, with no need for backend infrastructure.
 
 ### Features
 
 - **Folder-based Sorting**: Easily select a folder of images to sort through.
 - **Accept or Reject Images**: Review each picture and choose whether to keep it or discard it.
 - **Local File Handling**: The browser’s File System API allows you to load and save files directly from your device.
+- **Deduplication**: Already sorted images are saved to avoid sorting them again in future sessions.
 - **Output Folder Selection**: Choose a destination folder for saving all accepted images.
 - **No Uploads, Full Privacy**: Images never leave your device—everything happens locally in the browser.
