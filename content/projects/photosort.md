@@ -15,6 +15,10 @@ series = ["Projects"]
 
 **Photo Sort** is a web-based tool designed to help you quickly sort through old pictures directly in your browser, keeping the process private and local.
 
+Project Page: https://github.com/enrico-kaack/photo-sort
+
+Website: https://enrico-kaack.github.io/photo-sort
+
 ![Review page screenshot. Showing the image and exif information and a image gallery with marked images as accepted and rejected.](/projects/photosort/review.png)
 
 
